@@ -13,7 +13,7 @@ It's not polished enough to be released. I just wanted to test my skills to see 
 
 ## Getting Started
 
-All you have to do is run the code on an android emulator. You can use VSCode or Android Studio as compiler. 
+All you have to do is run the code on an android emulator. You can use any Flutter compiler. 
 
 Or you can download the apk file.
 
